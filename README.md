@@ -439,3 +439,6 @@ made by [gramk](https://github.com/gramk/chrome-hls), plays hls from address bar
 ## License
 
 HLS.js is released under [Apache 2.0 License](LICENSE)
+
+Hls.js custom control bar sample git: [custom-control-git](https://github.com/abhisheksliam/hls-demo.git)
+Hls.js custom control bar sample demo: [custom-control-demo](https://github.com/abhisheksliam/hls-demo)
